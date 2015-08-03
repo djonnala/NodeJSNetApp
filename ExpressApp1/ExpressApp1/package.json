@@ -1,0 +1,17 @@
+{
+  "name": "ExpressApp1",
+  "version": "0.0.0",
+  "description": "ExpressApp1",
+  "main": "app.js",
+  "author": {
+    "name": "Dheeraj Jonnala",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "mssql": "^2.1.6",
+    "stylus": "*",
+    "tedious": "^1.11.2"
+  }
+}
